@@ -5,7 +5,7 @@ module.exports = function main(str) {
   var i;
   for( i = 0;i<len;i++);
   {
-	  sum += parseInt(str.charAt(i);
+	  sum += parseInt(str.charAt(i));
   }
   return sum;
 };
