@@ -1,6 +1,5 @@
-module.exports = function main() {
+module.exports = function main(str) {
   // Write your cade here
-  var str = arguments[0];
   var len = str.length;
   var sum = 0;
   for(var i = 0;i<len;i++);
